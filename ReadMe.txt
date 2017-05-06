@@ -1,4 +1,4 @@
-Technologies Used:-pk
+Technologies Used:-
 	php html css json
 
 
